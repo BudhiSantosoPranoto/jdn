@@ -1,124 +1,60 @@
-# Catatan Website JDN
+# CATATAN WEBSITE JDN
 
 ## Status
-Website tahap awal / company profile. JDN belum memiliki dana untuk melakukan maklon atau membuat merek sendiri, sehingga website **tidak boleh memberi kesan bahwa JDN saat ini sudah memiliki produk bermerek sendiri atau fasilitas produksi sendiri**.
+Dokumen ini menjadi acuan khusus untuk perencanaan dan pembangunan website Jawa Dwipa Nusantara (JDN). Dokumen ini dipisahkan dari `CATATAN-PROYEK.md`.
 
-## Tujuan Website
-Website berfungsi sebagai wajah profesional PT Jawa Dwipa Nusantara untuk:
-- memperkenalkan JDN sebagai perusahaan ekspor/impor;
-- membangun kepercayaan calon buyer, supplier, dan mitra bisnis;
-- memperkenalkan fokus awal pada komoditas beras organik;
-- membuka peluang inquiry dan kerja sama ekspor;
-- menjadi fondasi untuk pengembangan produk dan merek JDN di masa depan.
+## Konsep Website
+JDN diposisikan sebagai Indonesian Export & Sourcing Company / export & sourcing partner yang menghubungkan produk Indonesia dengan buyer global.
 
-## Konsep Utama
-Posisi website sebaiknya sebagai **B2B Export & Sourcing Company**, bukan toko online.
+Produk awal yang menjadi fokus bisnis adalah beras organik.
 
-Pesan utama:
-> JDN menghubungkan produk Indonesia dengan pasar internasional.
+## Kondisi Saat Ini
+JDN belum memiliki dana untuk melakukan maklon atau membuat brand produk sendiri. Karena itu website tidak boleh memberikan kesan bahwa JDN saat ini sudah memiliki produk/brand beras sendiri atau sudah menjalankan produksi maklon.
 
-Untuk tahap awal, JDN dapat menampilkan kemampuan sourcing dan perdagangan beras organik berdasarkan kerja sama dengan mitra/supplier, tanpa mengklaim JDN sebagai produsen.
+JDN memiliki data supplier sebagai referensi internal. Identitas supplier, kontak supplier, website supplier, dan informasi internal supplier tidak ditampilkan kepada buyer melalui website.
 
-## Produk Tahap Awal
-### Organic Rice
-Beras organik menjadi produk fokus pertama.
+## Produk di Website
+Struktur website dapat menampilkan kategori/produk yang memang dapat ditawarkan JDN kepada buyer, dengan fokus awal pada Organic Rice.
 
-Informasi yang dapat ditampilkan:
-- kategori produk: Organic Rice;
-- asal: Indonesia;
-- opsi spesifikasi berdasarkan kebutuhan buyer;
-- kemasan dan private label/custom branding sebagai **layanan yang direncanakan / tersedia berdasarkan kesiapan mitra**, bukan sebagai fasilitas JDN saat ini;
-- ekspor berdasarkan permintaan dan spesifikasi buyer.
+Informasi yang dapat dipertimbangkan untuk halaman produk:
+- nama produk
+- foto produk
+- deskripsi
+- karakteristik/spesifikasi
+- pilihan kemasan jika tersedia
+- informasi kualitas/sertifikasi yang memang layak dipublikasikan
+- tombol Request Information / Send Inquiry
 
-Jangan menampilkan klaim sertifikasi, kapasitas produksi, MOQ, negara tujuan, atau spesifikasi teknis yang belum diverifikasi.
+Harga tidak perlu ditampilkan untuk model B2B export pada tahap awal.
 
-## Model Bisnis yang Ditampilkan
-1. **Product Sourcing** — mencari dan menyediakan produk sesuai kebutuhan buyer.
-2. **Export Supply** — membantu proses pengadaan dan ekspor produk Indonesia.
-3. **Custom Buyer Requirements** — spesifikasi, kemasan, volume, dan kebutuhan lain dibahas berdasarkan inquiry.
-4. **Future Own Brand** — JDN berencana mengembangkan merek sendiri ketika kesiapan modal dan operasional sudah memungkinkan.
+## Poin yang Masih Dipertimbangkan
+**Belum diputuskan apakah produk beras organik dengan nama/brand Hotel akan ditampilkan di website JDN.**
 
-## Struktur Website yang Disarankan
+Untuk sementara, jangan menganggap atau mempromosikan beras bermerk Hotel sebagai produk/brand JDN. Keputusan mengenai apakah produk tersebut akan tampil di website akan dibahas kemudian.
+
+## Brand JDN Sendiri
+Jika pada masa depan JDN memiliki brand beras organik sendiri melalui skema maklon, produk tersebut akan diperlakukan sebagai produk/brand JDN. Sertifikasi untuk produk/brand JDN akan diurus sendiri oleh JDN dan tidak disamakan dengan sertifikasi milik supplier/maklon.
+
+## Prinsip Supplier vs Website
+Supplier merupakan data referensi internal JDN. Website berfungsi sebagai wajah JDN dan pintu masuk inquiry buyer. Buyer diarahkan untuk berhubungan dengan JDN, bukan langsung dengan supplier.
+
+## Struktur Website Awal
 - Home
-- About JDN
 - Products
-- Export & Sourcing
-- Why JDN
-- Inquiry / Contact
+- About JDN
+- Export / Sourcing
+- Contact
 
-Belum perlu:
-- shopping cart;
-- harga retail;
-- checkout online;
-- katalog terlalu banyak;
-- blog yang dipaksakan;
-- klaim sebagai produsen.
+## Positioning Sementara
+Usulan positioning:
 
-## Konsep Homepage
-### Hero
-Fokus pada identitas JDN sebagai perusahaan perdagangan dan ekspor Indonesia.
+**Jawa Dwipa Nusantara**  
+*Indonesian Products for Global Markets.*
 
-Contoh arah copy:
-> **Connecting Indonesian Products to Global Markets**
->
-> Jawa Dwipa Nusantara is an Indonesian export and sourcing company connecting trusted local products with international buyers.
+Fokus awal:
+**Organic Rice — Indonesia**
 
-CTA utama: **Send an Inquiry**
+JDN diposisikan sebagai pihak yang menangani sourcing, koordinasi supply, dan kebutuhan ekspor sesuai permintaan buyer; jangan mengklaim JDN sebagai produsen jika belum demikian.
 
-### Section 1 — What We Do
-Jelaskan singkat bahwa JDN menangani sourcing, supply, dan export berdasarkan kebutuhan buyer.
-
-### Section 2 — Featured Product
-Tampilkan Organic Rice sebagai produk utama saat ini.
-
-Jangan membuat seolah-olah ini adalah merek JDN. Gunakan framing seperti:
-> **Organic Rice from Indonesia**
-> Available for B2B supply and export inquiries.
-
-### Section 3 — How We Work
-Sederhana:
-1. Buyer Inquiry
-2. Product & Specification Matching
-3. Supply Coordination
-4. Export Arrangement
-
-### Section 4 — Future Direction
-Boleh menyampaikan bahwa JDN sedang membangun jaringan produk Indonesia dan ke depan akan mengembangkan produk/merek sendiri.
-
-## Identitas Bisnis
-JDN adalah pihak yang berhubungan dengan buyer dan mengelola aktivitas perdagangan/ekspor. Produsen atau supplier harus disebut sebagai mitra ketika memang relevan dan sudah dapat dipublikasikan secara resmi.
-
-PT Hotel Indo Industri (PT HII) merupakan konteks mitra produksi/supplier yang terkait dengan pengembangan bisnis beras organik, tetapi website tidak boleh mencampurkan identitas JDN dan PT HII.
-
-## Prinsip Kredibilitas
-Website harus terlihat profesional walaupun bisnis masih tahap awal.
-
-Prioritas:
-- desain premium dan bersih;
-- bahasa B2B, bukan retail;
-- foto produk/Indonesia yang berkualitas;
-- informasi sedikit tetapi benar;
-- kontak bisnis jelas;
-- tidak membuat klaim yang belum dapat dibuktikan.
-
-Lebih baik website sederhana dengan informasi yang benar daripada website penuh produk tetapi terlihat tidak nyata.
-
-## Tahap Pengembangan Website
-### Phase 1 — Company Presence
-Company profile + Organic Rice + inquiry/contact.
-
-### Phase 2 — Business Development
-Tambahkan produk lain setelah supplier dan spesifikasi sudah siap.
-
-### Phase 3 — Own Brand
-Setelah modal dan operasional memungkinkan, JDN dapat memperkenalkan brand sendiri dan mengatur produksi melalui mitra maklon.
-
-### Phase 4 — Expanded Export Business
-Perluasan produk, buyer, negara tujuan, dan layanan private label/custom manufacturing sesuai kesiapan bisnis.
-
-## Catatan Penting
-Dokumen ini khusus untuk **konsep dan pengembangan website JDN**.
-
-Catatan bisnis utama perusahaan tetap berada di `CATATAN-PROYEK.md` dan tidak digabungkan dengan dokumen ini.
-
-Setiap keputusan baru mengenai struktur website, positioning, konten, fitur, desain, atau status produk harus diperbarui di dokumen ini.
+## Prinsip Pembaruan
+Setiap keputusan baru mengenai konsep, produk, brand, konten, struktur halaman, atau aturan publikasi website harus diperbarui di dokumen ini.
