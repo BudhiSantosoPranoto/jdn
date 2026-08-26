@@ -52,6 +52,28 @@ Jika brand JDN sudah dibuat, produk tersebut akan diperlakukan sebagai produk/br
 ## Prinsip Supplier vs Website
 Supplier merupakan data referensi internal JDN. Website berfungsi sebagai wajah JDN dan pintu masuk inquiry buyer. Buyer diarahkan untuk berhubungan dengan JDN, bukan langsung dengan supplier.
 
+## SEO Requirement
+Website JDN **wajib SEO-ready sejak awal pembangunan**, bukan ditambahkan belakangan.
+
+SEO harus menjadi bagian dari arsitektur, struktur konten, dan teknis website, termasuk minimal:
+- semantic HTML dan struktur heading yang benar
+- title tag dan meta description yang unik untuk setiap halaman
+- URL/slug yang bersih, deskriptif, dan stabil
+- Open Graph dan metadata dasar untuk social sharing
+- canonical URL
+- sitemap.xml
+- robots.txt
+- struktur internal linking yang baik
+- schema.org/structured data yang relevan
+- optimasi gambar (ukuran, format, alt text, dan performa)
+- mobile-friendly dan responsive
+- Core Web Vitals/performance menjadi pertimbangan sejak development
+- konten yang natural dan relevan dengan target pencarian, tanpa keyword stuffing
+- halaman produk dan layanan memiliki konten yang cukup untuk dapat diindeks mesin pencari
+- kesiapan untuk Google Search Console dan analytics
+
+Target SEO akan diarahkan terutama pada pencarian B2B terkait **Indonesian organic rice, organic rice supplier/export, rice export from Indonesia, white label rice, private label rice, dan rice contract manufacturing/maklon**, dengan pemilihan keyword final dilakukan pada tahap riset SEO.
+
 ## Struktur Website Awal
 - Home
 - Products
@@ -72,4 +94,4 @@ Fokus awal:
 JDN diposisikan sebagai pihak yang menangani sourcing, koordinasi supply, white label/private label/maklon, dan kebutuhan ekspor sesuai permintaan buyer; jangan mengklaim JDN sebagai produsen jika belum demikian.
 
 ## Prinsip Pembaruan
-Setiap keputusan baru mengenai konsep, produk, brand, konten, struktur halaman, atau aturan publikasi website harus diperbarui di dokumen ini.
+Setiap keputusan baru mengenai konsep, produk, brand, konten, struktur halaman, SEO, atau aturan publikasi website harus diperbarui di dokumen ini.
