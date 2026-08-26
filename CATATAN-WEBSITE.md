@@ -3,95 +3,177 @@
 ## Status
 Dokumen ini menjadi acuan khusus untuk perencanaan dan pembangunan website Jawa Dwipa Nusantara (JDN). Dokumen ini dipisahkan dari `CATATAN-PROYEK.md`.
 
-## Konsep Website
-JDN diposisikan sebagai Indonesian Export & Sourcing Company / export & sourcing partner yang menghubungkan produk Indonesia dengan buyer global.
+## MASTER CHECKLIST WEBSITE JDN
 
-Produk awal yang menjadi fokus bisnis adalah beras organik.
+### A. Business & Positioning
+- [x] JDN diposisikan sebagai Indonesian Export & Sourcing Company / export & sourcing partner.
+- [x] Fokus awal: Organic Rice — Indonesia.
+- [x] JDN tidak diposisikan sebagai produsen jika belum demikian.
+- [x] Supplier adalah data internal dan tidak ditampilkan kepada buyer.
+- [x] Merek Hotel tidak ditampilkan sebagai merek JDN.
+- [x] JDN berencana memiliki brand beras sendiri di masa depan; nama brand belum ditentukan.
+- [x] Website harus menjelaskan layanan white label / private label / maklon.
+- [ ] Menentukan target negara/region buyer.
+- [ ] Menentukan buyer persona: importer, distributor, wholesaler, retailer, food company, dll.
+- [ ] Menentukan positioning/final value proposition JDN.
 
-## Kondisi Saat Ini
-JDN belum memiliki dana untuk membuat brand sendiri melalui maklon. Karena itu website tidak boleh memberikan kesan bahwa JDN saat ini sudah memiliki brand beras sendiri atau sudah menjalankan produksi maklon.
+### B. Product & Service Content
+- [x] Organic Rice menjadi fokus produk awal.
+- [x] Produk supplier menjadi referensi internal untuk kemampuan sourcing/maklon.
+- [x] Website tidak menampilkan identitas supplier.
+- [x] White label / private label / maklon menjadi layanan yang ditawarkan.
+- [ ] Menentukan produk/varian beras yang benar-benar ditampilkan pada website.
+- [ ] Menentukan spesifikasi produk yang boleh dipublikasikan.
+- [ ] Menentukan informasi packaging yang boleh dipublikasikan.
+- [ ] Menentukan informasi sertifikasi yang boleh dipublikasikan.
+- [ ] Menentukan alur dan batasan layanan white label/private label/maklon.
 
-Namun, website **harus menyampaikan bahwa JDN melayani kebutuhan beras dengan skema white label / private label / maklon**, sesuai kebutuhan buyer. Ini merupakan layanan yang ingin dibangun JDN, bukan klaim bahwa JDN saat ini sudah memiliki brand sendiri.
+### C. Website Structure / Sitemap
+- [ ] Home.
+- [ ] Products.
+- [ ] About JDN.
+- [ ] Export / Sourcing.
+- [ ] White Label / Private Label / Maklon.
+- [ ] Contact.
+- [ ] Menentukan struktur URL final.
+- [ ] Menentukan apakah perlu halaman FAQ.
+- [ ] Menentukan apakah perlu halaman Resources / Blog.
 
-JDN memiliki data supplier sebagai referensi internal. Identitas supplier, kontak supplier, website supplier, dan informasi internal supplier tidak ditampilkan kepada buyer melalui website.
+### D. Target Buyer & Conversion
+- [ ] Menentukan CTA utama website.
+- [ ] Menentukan alur buyer inquiry.
+- [ ] Menentukan field form inquiry.
+- [ ] Menentukan bagaimana inquiry diterima dan ditindaklanjuti JDN.
+- [ ] Menentukan kebutuhan Request a Quote / Request Product Information.
+- [ ] Menentukan apakah perlu downloadable product brochure/catalog.
 
-## Produk di Website
-Website dapat menampilkan kategori **Organic Rice** sebagai produk yang dapat ditawarkan JDN.
+### E. International & Language
+- [ ] Website minimal English + Indonesian.
+- [ ] Menentukan bahasa utama untuk buyer internasional.
+- [ ] Menentukan struktur multilingual URL.
+- [ ] Menentukan strategi hreflang.
+- [ ] Menentukan terminology bisnis/export yang konsisten dalam English.
 
-Website **tidak menampilkan merek Hotel** sebagai merek produk JDN. Produk beras yang saat ini tersedia dari supplier menjadi referensi untuk kemampuan sourcing dan layanan white label/private label/maklon JDN.
+### F. SEO — WAJIB SEO-READY SEJAK AWAL
+- [x] SEO menjadi bagian dari arsitektur sejak awal, bukan tambahan belakangan.
+- [x] Semantic HTML dan struktur heading yang benar.
+- [x] Unique title tag dan meta description setiap halaman.
+- [x] Clean, descriptive, stable URL/slug.
+- [x] Open Graph dan metadata dasar social sharing.
+- [x] Canonical URL.
+- [x] sitemap.xml.
+- [x] robots.txt.
+- [x] Internal linking.
+- [x] Schema.org / structured data yang relevan.
+- [x] Image optimization, alt text, ukuran dan format gambar.
+- [x] Mobile-friendly / responsive.
+- [x] Performance dan Core Web Vitals menjadi pertimbangan sejak development.
+- [x] Konten natural dan relevan, tanpa keyword stuffing.
+- [x] Product/service pages memiliki konten yang cukup untuk diindeks.
+- [x] Kesiapan Google Search Console dan analytics.
+- [ ] Riset keyword final.
+- [ ] Mapping keyword ke halaman.
+- [ ] SEO title/description final per halaman.
+- [ ] Strategi topical content/content cluster.
+- [ ] Strategi backlink/digital authority.
 
-Jika nantinya JDN membuat brand beras sendiri, nama brand tersebut akan ditentukan kemudian dan menjadi brand JDN.
+Target SEO awal diarahkan pada pencarian B2B terkait Indonesian organic rice, organic rice supplier/export, rice export from Indonesia, white label rice, private label rice, dan rice contract manufacturing/maklon. Keyword final harus ditentukan melalui riset SEO.
 
-Informasi yang dapat dipertimbangkan untuk halaman produk:
-- kategori/nama produk
-- foto produk yang layak dipublikasikan
-- deskripsi
-- karakteristik/spesifikasi
-- pilihan kemasan jika tersedia
-- informasi kualitas/sertifikasi yang memang layak dipublikasikan
-- opsi white label / private label / maklon
-- tombol Request Information / Send Inquiry
+### G. Trust & Credibility
+- [ ] Menentukan informasi perusahaan yang dapat ditampilkan secara publik.
+- [ ] Menentukan company profile/about content.
+- [ ] Menentukan cara menampilkan credibility tanpa klaim yang tidak dapat dibuktikan.
+- [ ] Menentukan informasi quality assurance yang dapat dipublikasikan.
+- [ ] Menentukan sertifikasi yang boleh ditampilkan.
+- [ ] Menentukan professional business contact information.
+- [ ] Menentukan alamat/kontak publik yang akan digunakan.
 
-Harga tidak perlu ditampilkan untuk model B2B export pada tahap awal.
+### H. Content Strategy
+- [ ] Menentukan content pillars.
+- [ ] Menentukan topik artikel SEO awal.
+- [ ] Menentukan prioritas halaman evergreen.
+- [ ] Menentukan proses pembuatan dan review konten.
+- [ ] Menentukan aturan agar konten tidak menjadi AI-generated spam.
 
-## Layanan White Label / Private Label / Maklon
-Website perlu memiliki penjelasan bahwa JDN melayani buyer yang ingin mendapatkan beras dari Indonesia dengan **brand/label milik buyer sendiri**, melalui skema white label / private label / maklon sesuai kebutuhan dan kesepakatan.
+Contoh topik yang dapat dipertimbangkan:
+- Organic Rice from Indonesia
+- How to Import Organic Rice from Indonesia
+- Private Label Rice from Indonesia
+- White Label Rice Supplier in Indonesia
+- Indonesian Rice Export Guide
 
-Alur yang dapat ditampilkan secara umum:
-**Buyer Inquiry → Product Specification → Sourcing & Coordination → Packaging/Label Requirement → Export**
+### I. Legal & Privacy
+- [ ] Privacy Policy.
+- [ ] Terms & Conditions.
+- [ ] Cookie Policy jika diperlukan.
+- [ ] Disclaimer.
+- [ ] Menentukan bagaimana data inquiry buyer disimpan dan diproses.
+- [ ] Menentukan consent/privacy requirements untuk form dan analytics.
 
-Detail supplier dan sumber produksi tetap menjadi informasi internal JDN.
+### J. Domain, Email & Technical Infrastructure
+- [ ] Menentukan domain utama JDN.
+- [ ] Menentukan email domain profesional.
+- [ ] Menentukan alamat seperti info@, sales@, export@.
+- [ ] Menentukan hosting/deployment.
+- [ ] Menentukan SSL/HTTPS.
+- [ ] Menentukan CDN/caching bila diperlukan.
+- [ ] Menentukan backup dan recovery.
 
-## Brand JDN Sendiri
-JDN berencana memiliki brand beras organik sendiri pada masa depan. Produknya dapat diproduksi melalui skema maklon, termasuk kemungkinan menggunakan produk dasar yang sama dengan produk supplier.
+### K. Analytics & Measurement
+- [ ] Google Search Console.
+- [ ] Web analytics.
+- [ ] Conversion/event tracking.
+- [ ] Tracking inquiry form.
+- [ ] Menentukan KPI website.
+- [ ] Menentukan laporan/monitoring SEO dan traffic.
 
-**Nama brand JDN belum ditentukan.** Jangan membuat atau menampilkan nama brand JDN sebelum ditetapkan.
+### L. Visual & UX
+- [ ] Finalisasi logo penggunaan website.
+- [ ] Menentukan visual direction.
+- [ ] Menentukan color system.
+- [ ] Menentukan typography.
+- [ ] Menentukan photography/image direction.
+- [ ] Menentukan homepage wireframe.
+- [ ] Menentukan product page wireframe.
+- [ ] Menentukan mobile UX.
+- [ ] Menentukan accessibility baseline.
 
-Jika brand JDN sudah dibuat, produk tersebut akan diperlakukan sebagai produk/brand JDN. Sertifikasi untuk produk/brand JDN akan diurus sendiri oleh JDN dan tidak disamakan dengan sertifikasi milik supplier/maklon.
+### M. Technology & Development
+- [ ] Memilih stack website.
+- [ ] Menentukan apakah static site, PHP/Laravel, Next.js, CMS, atau stack lain.
+- [ ] Menentukan arsitektur content/product data.
+- [ ] Menentukan source of truth data produk.
+- [ ] Menentukan deployment workflow.
+- [ ] Menentukan staging dan production environment.
+- [ ] Menentukan version control/repository structure.
+- [ ] Menentukan security baseline.
 
-## Prinsip Supplier vs Website
-Supplier merupakan data referensi internal JDN. Website berfungsi sebagai wajah JDN dan pintu masuk inquiry buyer. Buyer diarahkan untuk berhubungan dengan JDN, bukan langsung dengan supplier.
+### N. Launch & Post-Launch
+- [ ] Pre-launch technical SEO audit.
+- [ ] Pre-launch content review.
+- [ ] Mobile/browser testing.
+- [ ] Form/inquiry testing.
+- [ ] Performance testing.
+- [ ] Structured data validation.
+- [ ] Sitemap/robots validation.
+- [ ] Search Console setup dan indexing request.
+- [ ] Analytics validation.
+- [ ] Backup sebelum launch.
+- [ ] Post-launch monitoring.
 
-## SEO Requirement
-Website JDN **wajib SEO-ready sejak awal pembangunan**, bukan ditambahkan belakangan.
-
-SEO harus menjadi bagian dari arsitektur, struktur konten, dan teknis website, termasuk minimal:
-- semantic HTML dan struktur heading yang benar
-- title tag dan meta description yang unik untuk setiap halaman
-- URL/slug yang bersih, deskriptif, dan stabil
-- Open Graph dan metadata dasar untuk social sharing
-- canonical URL
-- sitemap.xml
-- robots.txt
-- struktur internal linking yang baik
-- schema.org/structured data yang relevan
-- optimasi gambar (ukuran, format, alt text, dan performa)
-- mobile-friendly dan responsive
-- Core Web Vitals/performance menjadi pertimbangan sejak development
-- konten yang natural dan relevan dengan target pencarian, tanpa keyword stuffing
-- halaman produk dan layanan memiliki konten yang cukup untuk dapat diindeks mesin pencari
-- kesiapan untuk Google Search Console dan analytics
-
-Target SEO akan diarahkan terutama pada pencarian B2B terkait **Indonesian organic rice, organic rice supplier/export, rice export from Indonesia, white label rice, private label rice, dan rice contract manufacturing/maklon**, dengan pemilihan keyword final dilakukan pada tahap riset SEO.
-
-## Struktur Website Awal
-- Home
-- Products
-- About JDN
-- Export / Sourcing
-- White Label / Private Label / Maklon
-- Contact
+## Prinsip Website
+Website harus terlihat profesional sebagai perusahaan B2B yang menghubungkan produk Indonesia dengan pasar global, tanpa mengungkap supplier internal. Website harus mampu menerima buyer inquiry untuk kebutuhan produk standar maupun kebutuhan white label/private label/maklon.
 
 ## Positioning Sementara
-Usulan positioning:
-
 **Jawa Dwipa Nusantara**  
 *Indonesian Products for Global Markets.*
 
-Fokus awal:
-**Organic Rice — Indonesia**
+JDN menangani sourcing, koordinasi supply, white label/private label/maklon, dan kebutuhan ekspor sesuai permintaan buyer.
 
-JDN diposisikan sebagai pihak yang menangani sourcing, koordinasi supply, white label/private label/maklon, dan kebutuhan ekspor sesuai permintaan buyer; jangan mengklaim JDN sebagai produsen jika belum demikian.
+## Brand JDN Sendiri
+JDN berencana memiliki brand beras organik sendiri pada masa depan. Produksinya dapat dilakukan melalui maklon. Nama brand belum ditentukan.
 
-## Prinsip Pembaruan
-Setiap keputusan baru mengenai konsep, produk, brand, konten, struktur halaman, SEO, atau aturan publikasi website harus diperbarui di dokumen ini.
+Jika brand JDN sudah dibuat, produk tersebut diperlakukan sebagai produk/brand JDN dan sertifikasinya diurus sendiri oleh JDN, terpisah dari sertifikasi milik supplier/maklon.
+
+## Prinsip Pembaruan Checklist
+Checklist ini menjadi daftar kerja utama website. Setiap pembahasan menghasilkan keputusan, item yang selesai diberi tanda `[x]`. Item yang belum diputuskan tetap `[ ]`. Setiap perubahan keputusan website wajib diperbarui di dokumen ini.
