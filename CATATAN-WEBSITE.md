@@ -9,31 +9,45 @@ JDN diposisikan sebagai Indonesian Export & Sourcing Company / export & sourcing
 Produk awal yang menjadi fokus bisnis adalah beras organik.
 
 ## Kondisi Saat Ini
-JDN belum memiliki dana untuk melakukan maklon atau membuat brand produk sendiri. Karena itu website tidak boleh memberikan kesan bahwa JDN saat ini sudah memiliki produk/brand beras sendiri atau sudah menjalankan produksi maklon.
+JDN belum memiliki dana untuk membuat brand sendiri melalui maklon. Karena itu website tidak boleh memberikan kesan bahwa JDN saat ini sudah memiliki brand beras sendiri atau sudah menjalankan produksi maklon.
+
+Namun, website **harus menyampaikan bahwa JDN melayani kebutuhan beras dengan skema white label / private label / maklon**, sesuai kebutuhan buyer. Ini merupakan layanan yang ingin dibangun JDN, bukan klaim bahwa JDN saat ini sudah memiliki brand sendiri.
 
 JDN memiliki data supplier sebagai referensi internal. Identitas supplier, kontak supplier, website supplier, dan informasi internal supplier tidak ditampilkan kepada buyer melalui website.
 
 ## Produk di Website
-Struktur website dapat menampilkan kategori/produk yang memang dapat ditawarkan JDN kepada buyer, dengan fokus awal pada Organic Rice.
+Website dapat menampilkan kategori **Organic Rice** sebagai produk yang dapat ditawarkan JDN.
+
+Website **tidak menampilkan merek Hotel** sebagai merek produk JDN. Produk beras yang saat ini tersedia dari supplier menjadi referensi untuk kemampuan sourcing dan layanan white label/private label/maklon JDN.
+
+Jika nantinya JDN membuat brand beras sendiri, nama brand tersebut akan ditentukan kemudian dan menjadi brand JDN.
 
 Informasi yang dapat dipertimbangkan untuk halaman produk:
-- nama produk
-- foto produk
+- kategori/nama produk
+- foto produk yang layak dipublikasikan
 - deskripsi
 - karakteristik/spesifikasi
 - pilihan kemasan jika tersedia
 - informasi kualitas/sertifikasi yang memang layak dipublikasikan
+- opsi white label / private label / maklon
 - tombol Request Information / Send Inquiry
 
 Harga tidak perlu ditampilkan untuk model B2B export pada tahap awal.
 
-## Poin yang Masih Dipertimbangkan
-**Belum diputuskan apakah produk beras organik dengan nama/brand Hotel akan ditampilkan di website JDN.**
+## Layanan White Label / Private Label / Maklon
+Website perlu memiliki penjelasan bahwa JDN melayani buyer yang ingin mendapatkan beras dari Indonesia dengan **brand/label milik buyer sendiri**, melalui skema white label / private label / maklon sesuai kebutuhan dan kesepakatan.
 
-Untuk sementara, jangan menganggap atau mempromosikan beras bermerk Hotel sebagai produk/brand JDN. Keputusan mengenai apakah produk tersebut akan tampil di website akan dibahas kemudian.
+Alur yang dapat ditampilkan secara umum:
+**Buyer Inquiry → Product Specification → Sourcing & Coordination → Packaging/Label Requirement → Export**
+
+Detail supplier dan sumber produksi tetap menjadi informasi internal JDN.
 
 ## Brand JDN Sendiri
-Jika pada masa depan JDN memiliki brand beras organik sendiri melalui skema maklon, produk tersebut akan diperlakukan sebagai produk/brand JDN. Sertifikasi untuk produk/brand JDN akan diurus sendiri oleh JDN dan tidak disamakan dengan sertifikasi milik supplier/maklon.
+JDN berencana memiliki brand beras organik sendiri pada masa depan. Produknya dapat diproduksi melalui skema maklon, termasuk kemungkinan menggunakan produk dasar yang sama dengan produk supplier.
+
+**Nama brand JDN belum ditentukan.** Jangan membuat atau menampilkan nama brand JDN sebelum ditetapkan.
+
+Jika brand JDN sudah dibuat, produk tersebut akan diperlakukan sebagai produk/brand JDN. Sertifikasi untuk produk/brand JDN akan diurus sendiri oleh JDN dan tidak disamakan dengan sertifikasi milik supplier/maklon.
 
 ## Prinsip Supplier vs Website
 Supplier merupakan data referensi internal JDN. Website berfungsi sebagai wajah JDN dan pintu masuk inquiry buyer. Buyer diarahkan untuk berhubungan dengan JDN, bukan langsung dengan supplier.
@@ -43,6 +57,7 @@ Supplier merupakan data referensi internal JDN. Website berfungsi sebagai wajah 
 - Products
 - About JDN
 - Export / Sourcing
+- White Label / Private Label / Maklon
 - Contact
 
 ## Positioning Sementara
@@ -54,7 +69,7 @@ Usulan positioning:
 Fokus awal:
 **Organic Rice — Indonesia**
 
-JDN diposisikan sebagai pihak yang menangani sourcing, koordinasi supply, dan kebutuhan ekspor sesuai permintaan buyer; jangan mengklaim JDN sebagai produsen jika belum demikian.
+JDN diposisikan sebagai pihak yang menangani sourcing, koordinasi supply, white label/private label/maklon, dan kebutuhan ekspor sesuai permintaan buyer; jangan mengklaim JDN sebagai produsen jika belum demikian.
 
 ## Prinsip Pembaruan
 Setiap keputusan baru mengenai konsep, produk, brand, konten, struktur halaman, atau aturan publikasi website harus diperbarui di dokumen ini.
