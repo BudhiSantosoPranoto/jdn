@@ -161,6 +161,19 @@ Contoh topik yang dapat dipertimbangkan:
 - [ ] Backup sebelum launch.
 - [ ] Post-launch monitoring.
 
+## Market Screening Rules
+Market target JDN harus dinilai dengan 6 gate:
+1. Organic rice demand.
+2. Actual buyer/importer demand.
+3. Product-market fit dengan produk JDN.
+4. Economics/landed cost terhadap harga EXW JDN.
+5. Payment terms yang dapat dinegosiasikan, dengan preferensi JDN pada LC at sight dan struktur dokumen yang sesuai, termasuk FCR bila transaksi/logistik memungkinkan.
+6. Organic certification acceptance/regulatory pathway di negara tujuan.
+
+**Catatan Saudi Arabia:** Saudi tetap termasuk potential market. INOFICE memiliki peluang menjadi bagian dari jalur compliance organic Saudi dan tidak boleh dianggap otomatis ditolak hanya karena bukan USDA/EU/JAS. Namun INOFICE juga belum boleh dianggap otomatis cukup. Perlu verifikasi jalur penerimaan SFDA/MEWA dan kemungkinan certification/approval Saudi tambahan. Jika sertifikasi/approval Saudi tambahan diperlukan, hal tersebut dicatat sebagai regulatory complexity/cost dan **bukan alasan otomatis mencoret Saudi dari target market**.
+
+**Catatan payment Saudi:** Tidak ada dasar untuk menganggap Saudi secara umum mewajibkan pembayaran setelah barang tiba karena Syariah. Saudi memiliki mekanisme Islamic/Sight Letter of Credit. Karena itu LC at sight tetap menjadi payment term yang dapat ditawarkan/dinegosiasikan JDN, dengan penerimaan akhirnya bergantung pada buyer dan bank terkait.
+
 ## Prinsip Website
 Website harus terlihat profesional sebagai perusahaan B2B yang menghubungkan produk Indonesia dengan pasar global, tanpa mengungkap supplier internal. Website harus mampu menerima buyer inquiry untuk kebutuhan produk standar maupun kebutuhan white label/private label/maklon.
 
