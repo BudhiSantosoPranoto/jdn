@@ -226,3 +226,9 @@ Go4WorldBusiness listing 29-Jul-2025 menyebut Rice & Organic Rice di antara kate
 4. Jangan menganggap dua nama mirip sebagai dua perusahaan berbeda tanpa entity matching.
 5. RFQ aktif adalah sinyal demand kuat, tetapi identitas legal buyer tetap perlu diverifikasi sebelum outreach.
 6. Jangan mencatat data kontak yang dimasking sebagian sebagai data lengkap; simpan hanya bagian yang memang terlihat publik.
+
+## Catatan tambahan — 28 Aug 2026
+- Penelusuran terbaru menemukan Volza broad dataset Saudi “Organic, Rice” sebesar 821 buyers/13,319 shipments, tetapi contoh shipment termasuk conventional Pakistani parboiled rice; **tidak ditambahkan sebagai exact Organic Rice evidence**.
+- Penelusuran exact Organic Rice Qatar menguatkan 14 buyers/130 shipments; top buyers tetap LuLu Hyper Market Trading (49), LuLu Hypermarket TRDG (47), Joint Force Foodstuff (10).
+- Penelusuran exact Organic Rice Saudi menguatkan 20 buyers/110 shipments; top buyers tetap LuLu Saudi (55), LuLu KSA branch (8), Watania (4).
+- Prinsip pipeline JDN: **semua valid lead dicatat, Top 10 hanya urutan prioritas. Buyer yang menolak nantinya tidak dihapus; statusnya diubah menjadi Rejected/No Response/Disqualified agar pipeline tetap historis dan dapat ditindaklanjuti.**
