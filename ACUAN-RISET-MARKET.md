@@ -1,6 +1,6 @@
 # ACUAN RISET MARKET — JDN
 
-Dokumen ini adalah acuan tetap untuk seluruh riset target market, buyer, product-market fit, pricing, dan regulatory export JDN. Sebelum melakukan riset baru, baca ulang dokumen ini dan `BUYER-VALID-POTENSIAL.md` serta file acuan proyek lain yang tersedia. Jangan mengubah metodologi hanya karena hasil pencarian sementara terlihat berbeda.
+Dokumen ini adalah acuan tetap untuk seluruh riset target market, buyer, product-market fit, pricing, dan regulatory export JDN. Sebelum melakukan riset baru, baca ulang dokumen ini, `BUYER-VALID-POTENSIAL.md`, dan `HARGA-EXW-JDN.md` serta file acuan proyek lain yang tersedia. Jangan mengubah metodologi hanya karena hasil pencarian sementara terlihat berbeda.
 
 ## 1. Prinsip Utama Pencarian Buyer
 
@@ -37,6 +37,9 @@ Contoh:
 - Premium Red Rice
 - Black Rice
 - Pandan Wangi / Indonesian Fragrant Rice
+- Rainbow Rice
+- Sugar Free Rice / Parboiled Low-GI Rice
+- Milk Rice
 - Varian lain yang ditambahkan kemudian oleh JDN
 
 Pandan Wangi diperlakukan sebagai **aromatic/fragrant Indonesian specialty rice**, bukan sebagai pengganti langsung Jasmine. Penelitian BB Padi menunjukkan Pandan Wangi termasuk varietas padi aromatik; penelitian sensori juga membandingkan Pandan Wangi dengan Jasmine dan menemukan karakter aroma yang dapat dibedakan. Sumber riset web harus dipakai untuk memperkuat positioning bila diperlukan.
@@ -45,18 +48,15 @@ Pandan Wangi diperlakukan sebagai **aromatic/fragrant Indonesian specialty rice*
 
 Semua harga produk JDN yang digunakan untuk market screening adalah **EXW**, bukan CIF.
 
-### Opening price
-- Hotel Super Head Rice 5 KG: Rp36.080/kg; Rp180.400/5 KG; USD 10,13/5 KG.
-- Hotel Premium Red Rice 5 KG: Rp40.120/kg; Rp200.600/5 KG; USD 11,27/5 KG.
-- Hotel Black Rice 800 GR: Rp53.000/kg; Rp42.400/800 GR; USD 2,38/800 GR.
+**Source of truth harga:** lihat file `HARGA-EXW-JDN.md`. Jangan menyimpan angka harga sebagai acuan utama di file lain agar tidak terjadi duplikasi atau perbedaan angka.
 
-### Net price / realistic negotiation floor
-Harga net telah menyisakan margin JDN Rp5.000/kg:
-- White Rice: Rp33.250/kg
-- Red Premium Rice: Rp37.700/kg
-- Black Rice: Rp46.750/kg
-- Pandan Wangi: harga net belum tersedia; jangan mengarang.
-- Varian lain: harga net belum tersedia; jangan mengarang.
+File harga memisahkan dua level:
+1. **Harga EXW Penawaran / Opening Price** — harga lebih tinggi yang memberi ruang negosiasi.
+2. **Harga EXW Net / Negotiation Floor** — harga net yang sudah menyisakan margin JDN Rp5.000/kg.
+
+Untuk USD, gunakan hanya sebagai hasil konversi berdasarkan kurs pada tanggal analisis. **IDR adalah source of truth.**
+
+Untuk varian yang belum memiliki harga net, jangan mengarang harga net. Gunakan opening price sementara dan tandai statusnya.
 
 ### Screening economics
 Gunakan dua skenario:
@@ -68,6 +68,8 @@ Jika market hanya masuk pada net price, tandai **feasible only at negotiated/net
 EXW harus dihitung lagi dengan inland/export handling, freight, insurance, customs, destination charges, distributor/retailer margin, dan biaya lain sebelum dibandingkan dengan landed/wholesale economics.
 
 Declared shipment value dari trade database bukan otomatis harga CIF final. Selalu beri catatan bahwa grade, packaging, volume, origin, incoterm, dan biaya dapat berbeda.
+
+**Detail angka harga selalu dibaca dari `HARGA-EXW-JDN.md`.**
 
 ## 4. Buyer Recording Rules
 
