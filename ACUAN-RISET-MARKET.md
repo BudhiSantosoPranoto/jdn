@@ -30,6 +30,7 @@ Contoh:
 - Buyer Organic Basmati/Brown → tawarkan Indonesian Red Premium/Brown/Specialty Rice sebagai lini berbeda.
 - Buyer Black Rice → tawarkan JDN Black Rice sebagai alternatif/new supplier.
 - Buyer Premium/Healthy Rice → tawarkan SKU JDN yang mempunyai diferensiasi kuat.
+- Buyer Basmati/health-oriented → dapat diuji untuk Sugar Free/Parboiled Low-GI Rice, tetapi health/low-GI claim harus memiliki substantiation dan memenuhi aturan label/claim market tujuan.
 
 ## 2. SKU JDN yang Harus Dipertimbangkan
 
@@ -138,6 +139,10 @@ Prioritas riset awal:
 
 Namun ranking dapat berubah jika bukti buyer, economics, regulatory, atau product-market fit baru mengubah hasil.
 
+**Status setelah deep research 29-Aug-2026:** market research sudah cukup untuk first-wave outreach. Prioritas hasil sementara: **Qatar + Saudi Arabia** sebagai Tier 1; **Singapore + Kuwait** sebagai Tier 2 strategic; **Oman** sebagai second wave; Malaysia tetap selektif.
+
+Laporan deep research tersimpan di `RISET/HASIL-RISET-MARKET-DEEP-2026-08-29.md` dan wajib dibaca untuk melanjutkan tahap commercial validation.
+
 ## 9. Metodologi Riset Mendalam
 
 Setiap riset mendalam harus sebisa mungkin menggabungkan:
@@ -154,7 +159,7 @@ Setiap riset mendalam harus sebisa mungkin menggabungkan:
 11. contactability buyer;
 12. outreach priority.
 
-Jangan berulang kali mengulang pencarian generic buyer jika bukti sudah cukup. Setelah market terbukti, pindah ke buyer expansion, SKU matching, actual trade price, competitor mapping, dan regulatory verification.
+Jangan berulang kali mengulang pencarian generic buyer jika bukti sudah cukup. Setelah market terbukti, pindah ke buyer expansion, SKU matching, actual trade price, competitor mapping, regulatory verification, dan commercial validation.
 
 ## 10. Kesimpulan Strategis yang Harus Dijaga
 
@@ -166,3 +171,13 @@ Tujuan riset adalah menemukan buyer yang:
 - dan berpotensi menerima SKU baru JDN yang berbeda dari portfolio existing.
 
 **Perbedaan varietas dapat menjadi alasan untuk menawarkan produk baru, bukan alasan untuk mencoret buyer.**
+
+## 11. Status Tahap Riset
+
+**Market research generic: SUFFICIENT.**
+
+Tidak perlu terus mengejar jumlah buyer secara acak sebagai aktivitas utama. Semua buyer baru tetap dicatat, tetapi fokus kerja berpindah ke:
+
+**buyer → SKU JDN → EXW opening/net → freight → landed economics → regulatory → contactability → outreach.**
+
+Hero SKU tahap awal: **Premium Red, Black, Pandan Wangi, Sugar Free/Parboiled Low-GI**. White tetap sebagai core portfolio.
