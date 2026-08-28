@@ -27,6 +27,7 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Product fit:** Organic Sonamasuri Brown/Polished, Organic rice lainnya.
 **Kontak:** https://gcc.luluhypermarket.com/en-qa/ | qatar@luluhypermarket.com (dipublikasikan Qatar MOCI) | customercare@luluhypermarket.com.
 **RFQ evidence:** Freshdi menampilkan RFQ Organic Sonamasuri Raw Rice Brown tujuan Doha, 4 MT dan 1 MT pada Oktober 2025.
+**Shipment evidence terbaru yang terlihat:** 22-Apr-2025 Organic Sonamasuri Raw Rice Brown 5 KG (2.50 MT); Organic Sonamasuri Raw Rice Polished 5 KG (2.00 MT).
 
 ### 3. LULU HYPERMARKET TRDG CO WLL — Qatar
 **Status:** VALID POTENSIAL — PRIORITAS TINGGI
@@ -50,86 +51,109 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 
 ---
 
-## B. PRIORITAS MENENGAH / VALID POTENSIAL
+## B. VALID POTENSIAL TAMBAHAN — QATAR
 
-### 6. WATANIA AGRICULTURE ESTABLISHMENT — Saudi Arabia
+### 6. ABU ISSA MARKETING AND — Qatar
+**Status:** VALID POTENSIAL — ORGANIC RICE SHIPMENT EVIDENCE; DATA LAMA, PERLU VERIFIKASI AKTIVITAS TERKINI
+**Bukti:** Volza mencatat 2 Organic Rice import shipments.
+**Contoh:** 18-Nov-2022 Organic Extra Long Grain Basmati Rice 1 KG (1,500 PCS); 17-Nov-2022 Organic Extra Long Grain Basmati Rice 1 KG (1,500 PCS).
+**Company fit:** Abu Issa Holding adalah grup Qatar yang bergerak di retail dan distribution.
+**Website:** https://www.abuissa.com/
+**Kontak resmi holding:** Zone 23, Street 231, Building No.70, Al Sadd, Doha, Qatar; P.O. Box 6255 | +974 4446 6111 | info@abuissa.com.
+**Catatan:** nama shipment adalah Abu Issa Marketing and; entity matching ke AbuIssa Holding/brand retail perlu dikonfirmasi.
+
+### 7. QATAR ISLAMIC BANK — Qatar destination / buyer-country anomaly
+**Status:** VALID SHIPMENT EVIDENCE — TIDAK LANGSUNG DIPRIORITASKAN
+**Bukti:** 2 Organic Rice shipments pada 13-Mar-2022: Organic Basmati Brown Rice 2,150 KG dan Organic Basmati White Rice 2,150 KG.
+**Catatan:** Volza menampilkan buyer country United Arab Emirates meskipun destination Qatar. Verifikasi entity/location sebelum outreach.
+
+### 8. STAR SUPERMARKET — data location anomaly
+**Status:** VALID SHIPMENT EVIDENCE — PERLU ENTITY VERIFICATION
+**Bukti:** 3 Organic Rice import shipments; contoh Sep-2022 Organic Kaje Rice 1 KG.
+**Catatan:** halaman Volza menampilkan buyer country United States pada halaman Qatar. Jangan prioritaskan sebelum entity/address matching.
+
+---
+
+## C. PRIORITAS MENENGAH / VALID POTENSIAL
+
+### 9. WATANIA AGRICULTURE ESTABLISHMENT — Saudi Arabia
 **Status:** VALID POTENSIAL
 **Bukti:** 4 Organic Rice import shipments.
 **Website:** https://watania-agri.com/
 **Kontak:** 920020101 | info@wataniaagri.com | Tulip Square Business Center, Office 22, Al-Munsiyah, Riyadh | Jeddah showroom: jeddahshowroom@watania-agri.com / +966 12 693 0289.
 **Organic relevance:** website resmi menampilkan sertifikasi/equivalency organic.
 
-### 7. PADIBERAS NASIONAL BERHAD (BERNAS) — Malaysia
+### 10. PADIBERAS NASIONAL BERHAD (BERNAS) — Malaysia
 **Status:** VALID POTENSIAL — PERLU FIT CHECK JDN
 **Bukti:** 9 Organic Rice import shipments; contoh Jul-2024 Indian Organic PUSA 1121 Basmati, 25 MT.
 **Website:** https://bernas.com.my/
 **Kontak:** information@bernas.com.my | +603 5565 7777 | 1, Jalan Majistret U1/26, HICOM Glenmarie Industrial Park, 40150 Shah Alam, Selangor.
 
-### 8. PADIBER NASIONAL BERHAD — Malaysia
+### 11. PADIBER NASIONAL BERHAD — Malaysia
 **Status:** VALID POTENSIAL — DATA LEBIH LAMA, ENTITY MATCHING
 **Bukti:** 5 Organic Rice shipments; kemungkinan variasi nama BERNAS, jangan dianggap buyer terpisah tanpa entity matching.
 
-### 9. GREEN TRADERS — Oman
+### 12. GREEN TRADERS — Oman
 **Status:** POTENSIAL — ORGANIC FIT, PERLU VERIFIKASI AKTIF
-**Bukti:** Go4WorldBusiness buyer listing secara eksplisit memasukkan Organic Rice; profil menyebut traditional rice seperti Mappillai Samba, Karuppu Kavuni, Kerala Matta, Brown Rice, Red Rice serta berbagai organic-food categories.
+**Bukti:** Go4WorldBusiness buyer listing secara eksplisit memasukkan Organic Rice; profil menyebut traditional rice dan organic-food categories.
 **Location:** Oman.
 **Listing evidence:** Nov-15-2020 / Nov-18-2023 pages. Belum ada shipment-level evidence publik yang cukup.
 **Contact:** tidak terbuka pada halaman publik yang ditemukan.
 
-### 10. ROMA GLOBAL — Kuwait
+### 13. ROMA GLOBAL — Kuwait
 **Status:** POTENSIAL — ORGANIC FIT, DATA LAMA
 **Location:** Hawally, Kuwait.
-**Bukti:** Go4WorldBusiness listing memasukkan Rice, Basmati, Matta, Brown, Non-Basmati, **Organic Rice**, Parboiled, Sella dan kategori food lainnya.
-**Listing evidence:** Jun-18-2023 / Dec-13-2020 pages. Belum ada shipment-level evidence publik yang cukup.
+**Bukti:** Go4WorldBusiness listing memasukkan Rice, Basmati, Matta, Brown, Non-Basmati, Organic Rice, Parboiled, Sella dan kategori food lainnya.
+**Listing evidence:** Jun-18-2023 / Dec-13-2020 pages. Belum ada shipment evidence publik yang cukup.
 **Contact:** tidak terbuka pada halaman publik yang ditemukan.
 
 ---
 
-## C. POTENSIAL — PERLU VERIFIKASI LANJUT
+## D. POTENSIAL — PERLU VERIFIKASI LANJUT
 
-### 11. ARMAN GOLDEN HARVEST INC. — Kuwait
+### 14. ARMAN GOLDEN HARVEST INC. — Kuwait
 Buyer listing Rice/Basmati/Organic Rice/Long Grain; 24-Jun-2021. Belum ada shipment-level evidence publik atau official contact yang cukup kuat.
 
-### 12. GHAZI AL TAHER — Kuwait
+### 15. GHAZI AL TAHER — Kuwait
 Buyer listing Rice/Organic Rice/agro products; 31-May-2023. Belum ada shipment-level evidence publik yang cukup kuat.
 
-### 13. MATRAH COLD STORES LLC — Oman
+### 16. MATRAH COLD STORES LLC — Oman
 Buyer category mencakup Basmati/non-Basmati dan Organic Rice; listing 27-Mar-2020. Data lama, perlu verifikasi aktif.
 
-### 14. AL BAHRI ENGINEERING CONSULTANCY — Oman
+### 17. AL BAHRI ENGINEERING CONSULTANCY — Oman
 Buyer category mencakup Rice & Organic Rice; listing 29-Jul-2025. Belum ada shipment-level evidence publik yang cukup.
 
-### 15. SIMMI — Singapore
+### 18. SIMMI — Singapore
 Buyer listing 04-Oct-2022; Basmati/Matta/Ponni Rice; cultivation Organic & Common; 1 x 20ft; LC/TT; CFR Singapore. Archived; perlu verifikasi aktif.
 
-### 16. Cnb Trading — Qatar
+### 19. Cnb Trading — Qatar
 Go4WorldBusiness listing 18-Jan-2024 mencantumkan Rice/Basmati/Sona Masoori/Sugandha/Jasmine/Matta/Ponni/Brown/White/Non-Basmati/Organic Rice. Belum ada shipment evidence/official contact cukup.
 
-### 17. UNNAMED / MASKED FRESHDI C-LEVEL BUYER — Oman
+### 20. UNNAMED / MASKED FRESHDI C-LEVEL BUYER — Oman
 Organic Rice buying lead; identity dimasking platform. Tidak boleh ditebak. Perlu platform verification sebelum outreach.
 
 ---
 
-## D. RICE LEADS RELEVAN — ORGANIC BELUM TERBUKTI
+## E. RICE LEADS RELEVAN — ORGANIC BELUM TERBUKTI
 
-### 18. MOHAMED HUSSAIN — Singapore
-Verified RFQ 13-May-2026: Basmati/Parboiled/Ponni/Matta; 1x20ft; CIF Singapore; L/C. Organic tidak disebut eksplisit. Dicatat untuk pipeline rice, bukan organic evidence.
+### 21. MOHAMED HUSSAIN — Singapore
+Verified RFQ 13-May-2026: Basmati/Parboiled/Ponni/Matta; 1x20ft; CIF Singapore; L/C. Organic tidak disebut eksplisit.
 
-### 19. GERRY CERBAS — Saudi Arabia
+### 22. GERRY CERBAS — Saudi Arabia
 Verified RFQ Aug-06-2026: Sella Basmati 1121/Parboiled/Matta; 1x20ft; CIF Saudi; L/C; retail/distribution; HS 100630. Organic tidak diwajibkan.
 
-### 20. IBRAHIM — Saudi Arabia
+### 23. IBRAHIM — Saudi Arabia
 Verified RFQ Aug-04-2026: Basmati/Non-Basmati/Sona Masoori/Sella 1121/Parboiled; 1x20ft; Dammam; FOB/CIF; L/C; HS 100620/100630. Organic tidak disebut.
 
-### 21. NADEEM — Qatar
+### 24. NADEEM — Qatar
 Verified RFQ Aug-24-2026: Basmati/Jasmine; 1x20ft; CIF Qatar; L/C; HS 100630. Organic tidak disebut.
 
-### 22. SHAH HIRA — Singapore
+### 25. SHAH HIRA — Singapore
 Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapore; irrevocable L/C. Organic tidak disebut.
 
 ---
 
-## E. MARKET / BUYER EVIDENCE SUMMARY
+## F. MARKET / BUYER EVIDENCE SUMMARY
 
 ### Saudi Arabia
 - Exact Organic Rice: 20 verified buyers / 110 shipments.
@@ -143,23 +167,23 @@ Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapo
 
 ### Kuwait
 - Exact Organic Rice: 12 verified buyers / 111 shipments pada data yang tersedia.
-- Buyer names lengkap tidak seluruhnya terbuka dalam sumber gratis.
+- Shipment examples: Organic Brown Basmati Pakistan 11,016 KG / $20,120.26; Organic White Basmati 3,960 KG / $7,232.77; Organic Brown Basmati 9,960 KG / $18,271.47; Organic White Basmati 5,016 KG / $9,375.27.
 
 ### Oman
 - Exact Organic Rice: 5 buyers / 16 shipments pada dataset yang sebelumnya tersedia.
 - Indonesia termasuk salah satu origin/exporter.
-- Freshdi juga menampilkan organic rice buying lead aktif, tetapi identity dimasking.
+- Shipment examples: Organic Matta 2,000 KG / $1,195.64; Organic Sonamasuri Polished 5 MT / $4,935.91; Organic Sonamasuri Brown 2 MT / $2,285.23.
 
 ### Singapore
-- Exact Organic Rice: 21 buyers / 209 shipments pada data Volza yang ditampilkan.
-- Buyer detail publik terbatas.
+- Exact Organic Rice buyer detail publik terbatas.
+- Ada verified rice RFQ 13-May-2026, tetapi organic tidak disebut eksplisit.
 
 ### Malaysia
 - Exact Organic Rice: 8 buyers; BERNAS memiliki shipment evidence terbuka.
 
 ---
 
-## F. PRICE BENCHMARKS YANG DITEMUKAN
+## G. PRICE BENCHMARKS YANG DITEMUKAN
 
 > Harga di bawah adalah **declared shipment value / quantity** dari trade-data source, bukan otomatis harga CIF final atau harga retail. Packaging, volume, origin, incoterm dan biaya lain berbeda. Gunakan sebagai benchmark, bukan quote.
 
@@ -193,9 +217,30 @@ Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapo
 - Organic non-Basmati 50 MT: $40,329.07 / 50 MT ≈ **$0.81/kg**.
 
 ### Important economics implication
-Benchmark shipment values show a **large gap versus JDN EXW $2.03–$2.98/kg** for many bulk/standard organic rice shipments. This does **not yet mean JDN is uncompetitive**, because some benchmark shipments are commodity/bulk, while JDN may target premium certified/packaged products. However, this gap is now a major item that must be resolved by SKU, packaging, volume and market positioning before final market ranking.
+Benchmark shipment values show a **large gap versus JDN EXW $2.03–$2.98/kg** for many bulk/standard organic rice shipments. Ini belum berarti JDN tidak kompetitif, karena benchmark dapat berbeda dalam grade, packaging, volume, origin, incoterm dan positioning. Namun gap ini wajib diuji SKU-by-SKU.
 
 ---
+
+## H. HARGA EXW JDN — PARAMETER RESMI UNTUK SCREENING
+
+### Opening price / harga awal
+- Hotel Super Head Rice 5 KG: **Rp36.080/kg**; Rp180.400/5 KG; USD 10.13/5 KG pada acuan sebelumnya.
+- Hotel Premium Red Rice 5 KG: **Rp40.120/kg**; Rp200.600/5 KG; USD 11.27/5 KG.
+- Hotel Black Rice 800 GR: **Rp53.000/kg**; Rp42.400/800 GR; USD 2.38/800 GR.
+
+### Net price / harga realistis setelah negosiasi
+Harga net sudah menyisakan **margin JDN Rp5.000/kg**:
+- White Rice: **Rp33.250/kg**
+- Red Premium Rice: **Rp37.700/kg**
+- Black Rice: **Rp46.750/kg**
+
+### Prinsip economics
+1. Semua angka di atas adalah **EXW**, bukan CIF.
+2. Opening price digunakan untuk simulasi penawaran awal.
+3. Net price digunakan sebagai skenario negosiasi/floor untuk menguji apakah market masih feasible.
+4. Varian lain belum memiliki net price terverifikasi; jangan mengarang floor price.
+5. EXW harus ditambah inland/export handling, freight, insurance, customs, destination charges dan margin channel untuk mendapatkan landed economics.
+6. Jika hanya net price yang membuat market feasible, tandai **feasible only at negotiated/net price**, bukan langsung dicoret.
 
 ## Catatan Validasi Kontak
 1. Kontak dari website resmi diprioritaskan.
@@ -205,4 +250,4 @@ Benchmark shipment values show a **large gap versus JDN EXW $2.03–$2.98/kg** f
 5. RFQ aktif adalah sinyal demand kuat, tetapi identitas legal buyer tetap perlu diverifikasi sebelum outreach.
 6. Jangan mencatat data kontak yang dimasking sebagai data lengkap.
 7. **Semua buyer valid/lead yang ditemukan harus tetap dicatat walaupun bukan Top 10.**
-8. Jika nanti buyer menolak/tidak merespons, **jangan hapus**; ubah status menjadi Rejected / No Response / Disqualified agar pipeline historis tetap tersedia.
+8. Jika nanti buyer menolak/tidak merespons, **jangan hapus**; ubah status menjadi Rejected / No Response / Disqualified agar histori outreach tetap tersedia.
