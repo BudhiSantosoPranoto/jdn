@@ -172,7 +172,17 @@ Tujuan riset adalah menemukan buyer yang:
 
 **Perbedaan varietas dapat menjadi alasan untuk menawarkan produk baru, bukan alasan untuk mencoret buyer.**
 
-## 11. Status Tahap Riset
+## 11. Aturan Pengelolaan Catatan Proyek
+
+1. **Jangan membuat file catatan baru kecuali user secara eksplisit memerintahkannya.**
+2. Jika informasi buyer berubah/bertambah, update `BUYER-VALID-POTENSIAL.md` langsung; jangan membuat file update/addendum buyer.
+3. Jika informasi website berubah/bertambah, update file website/master website yang sudah ada.
+4. Jika informasi harga berubah/bertambah, update `HARGA-EXW-JDN.md`; jangan menyalin angka harga ke file lain sebagai source of truth.
+5. Prinsip yang sama berlaku untuk catatan proyek lain: selalu update file acuan yang sudah ada dan pertahankan satu sumber kebenaran per jenis informasi.
+6. Catatan baru harus ditempatkan pada section/record/row yang paling relevan agar urutan dan hubungan antar-data tetap jelas.
+7. Sebelum setiap riset, baca ulang seluruh file acuan yang relevan agar metodologi dan fakta tidak berubah-ubah.
+
+## 12. Status Tahap Riset
 
 **Market research generic: SUFFICIENT.**
 
