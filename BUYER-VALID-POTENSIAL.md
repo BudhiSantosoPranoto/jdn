@@ -1,16 +1,19 @@
 # BUYER VALID POTENSIAL — ORGANIC / SPECIALTY RICE
 
 ## Status
-Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas atau permintaan **Organic Rice**, serta buyer **Specialty/Premium Rice** yang relevan sebagai calon buyer lini baru JDN. Data kontak dicatat selengkap mungkin dari sumber publik yang dapat diverifikasi. Buyer tercatat **bukan berarti sudah menyatakan minat membeli dari JDN**.
+Dokumen master tunggal untuk seluruh buyer/importer/distributor potensial JDN. Semua buyer baru wajib ditambahkan ke file ini; jangan membuat file buyer baru kecuali diperintahkan.
 
 ## Kriteria
-- **VALID POTENSIAL — SHIPMENT EVIDENCE:** ada bukti shipment Organic Rice.
-- **LEAD ORGANIC AKTIF:** ada RFQ/permintaan Organic Rice yang relatif baru.
-- **VALID SPECIALTY/PREMIUM RICE:** ada bukti shipment Black/Red/Fragrant/Brown/Premium/Specialty Rice yang relevan.
-- **POTENSIAL — PERLU VERIFIKASI:** buyer listing atau data lama tanpa bukti shipment yang cukup.
-- **RICE LEAD — bukan organic:** buyer rice relevan tetapi organic belum terbukti.
-- Perbedaan varietas **bukan alasan untuk mencoret buyer**. Buyer Organic/Premium Rice dapat menjadi target untuk SKU baru JDN.
+- VALID POTENSIAL — SHIPMENT EVIDENCE: ada bukti shipment Organic Rice.
+- LEAD ORGANIC AKTIF: ada RFQ/permintaan Organic Rice yang relatif baru.
+- VALID SPECIALTY/PREMIUM RICE: ada bukti shipment Black/Red/Fragrant/Brown/Premium/Specialty Rice yang relevan.
+- POTENSIAL — PERLU VERIFIKASI: buyer listing atau data lama tanpa bukti shipment yang cukup.
+- RICE LEAD — bukan organic: buyer rice relevan tetapi organic belum terbukti.
+- Perbedaan varietas bukan alasan untuk mencoret buyer. Buyer Organic/Premium/Specialty Rice dapat menjadi target untuk SKU baru JDN.
+- Semua buyer yang ditemukan tetap dicatat walaupun bukan Top 10.
+- Buyer yang menolak/tidak merespons tidak dihapus; status diubah menjadi Rejected / No Response / Disqualified agar histori tetap ada.
 - Kontak hanya dicatat bila tersedia dari sumber publik; tidak mengarang email/person contact.
+- Nama mirip harus melalui entity matching sebelum dianggap entitas berbeda.
 
 ---
 
@@ -20,7 +23,7 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Status:** VALID POTENSIAL — PRIORITAS TINGGI
 **Bukti:** Volza mencatat 55 Organic Rice import shipments; 71% dataset Saudi.
 **Contoh produk:** 10-Apr-2025 Organic Non Basmati Idly Rice 1 KG (0.35 MT); Organic Sonamasuri Raw Rice Polished 5 KG (0.80 MT).
-**Kontak:** https://gcc.luluhypermarket.com/en-sa/ | +966 800 100 0330 | customer-service email publik tercatat di sumber sebelumnya | Import License IVF-172-21 | SFDA WL-2020-FO-0425.
+**Kontak:** https://gcc.luluhypermarket.com/en-sa/ | +966 800 100 0330 | Import License IVF-172-21 | SFDA WL-2020-FO-0425.
 **Catatan:** jalur procurement/vendor belum ditemukan secara publik.
 
 ### 2. LULU HYPER MARKET TRADING — Qatar
@@ -84,14 +87,13 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Company fit:** FMCG distribution, food distribution, warehousing, food service/HORECA, wholesale distribution dan specialty foods.
 **Website:** http://www.qnie.com
 **Kontak:** +974 4033 9000 | info@qnie.com | Building 178, Street 2, Industrial Area, Doha.
-**Catatan:** organic shipment terbukti pada kategori Basmati/Organic Basmati Brown; jangan menganggap hanya Basmati yang relevan. Targetkan new SKU Organic Red/Black/Pandan Wangi.
+**Product fit:** targetkan new SKU Organic Red/Black/Pandan Wangi.
 
 ### 10. FAMILY MARKETING — Qatar
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI
 **Bukti:** 16 shipments Basmati Rice / Organic Basmati Brown Rice; juga 101 shipments pada dataset Non-Parboiled Rice Qatar yang tersedia.
 **Company fit:** distributor Tata Consumer Products, Nambisan's Kitchen Treasures dan Falak di Qatar; terkait Family Food Center.
 **Website:** https://family.qa/default/contact/
-**Kontak:** detail email/phone tidak terbuka pada sumber resmi yang ditemukan; jangan mengarang.
 **Product fit:** Basmati/Brown buyer dapat diuji untuk Indonesian Red Premium, Black dan Pandan Wangi.
 
 ### 11. WALQ FOOD INDUSTRIES LLC — Qatar
@@ -105,21 +107,19 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI
 **Bukti:** importer dengan 634 import shipments dari 28 suppliers; HSN 1006 termasuk kategori utama. Dataset lain mencatat 209 rice shipments dan shipment Jasmine Rice 5% broken serta 2KG/5KG packs.
 **Kontak publik:** +974 44151118; P.O. Box 31398, Doha. Sumber direktori juga menampilkan +974 55840103.
-**Company fit:** distributor FMCG/catering dengan jaringan supplier/retailer.
 **Product fit:** sangat relevan untuk Pandan Wangi karena sudah mengimpor Jasmine/fragrant rice; Pandan Wangi dapat ditawarkan sebagai Indonesian aromatic/fragrant new SKU.
 
 ### 13. AROMA INTERNATIONAL — Qatar entity
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS MENENGAH-TINGGI, ENTITY MATCHING
 **Bukti:** 31 Red Rice shipments; 120 Ponni Rice shipments; recent Red Rice shipment 14-May-2025 13,450 KG dan 03-Mar-2025 6,300 KG.
 **Address evidence:** Near New Indian Super Market, Old Airport Road, Doha, Qatar.
-**Catatan penting:** ada perusahaan India dengan nama AROMA International yang juga merupakan exporter Basmati. Jangan mencampur kedua entity. Entity Qatar harus diverifikasi sebelum outreach.
+**Catatan:** jangan mencampur dengan perusahaan India bernama sama. Entity Qatar harus diverifikasi sebelum outreach.
 **Product fit:** Red Premium sangat relevan; organic status belum terbukti.
 
 ### 14. AL QADI INTERNATIONAL FOOD STUFFS — Qatar
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS MENENGAH
 **Bukti:** 7 Black Rice shipments dalam dataset Black Rice Qatar.
-**Address evidence:** Wakra, Qatar / sumber lain menampilkan P.O. Box 82989, Barma Village Building 16 Shop 5.
-**Contact:** belum tersedia secara publik dengan confidence cukup.
+**Address evidence:** Wakra, Qatar / P.O. Box 82989, Barma Village Building 16 Shop 5.
 **Product fit:** sangat relevan untuk JDN Black Rice; organic status belum terbukti.
 
 ---
@@ -145,36 +145,29 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 
 ### 18. GREEN TRADERS — Oman
 **Status:** POTENSIAL — ORGANIC FIT, PERLU VERIFIKASI AKTIF
-**Bukti:** Go4WorldBusiness buyer listing secara eksplisit memasukkan Organic Rice; profil menyebut traditional rice dan organic-food categories.
-**Location:** Oman.
-**Listing evidence:** Nov-15-2020 / Nov-18-2023 pages. Belum ada shipment-level evidence publik yang cukup.
-**Contact:** tidak terbuka pada halaman publik yang ditemukan.
+**Bukti:** Go4WorldBusiness buyer listing secara eksplisit memasukkan Organic Rice; profil menyebut traditional rice dan organic-food categories. Belum ada shipment-level evidence publik yang cukup.
 
 ### 19. ROMA GLOBAL — Kuwait
 **Status:** POTENSIAL — ORGANIC FIT, DATA LAMA
 **Location:** Hawally, Kuwait.
-**Bukti:** Go4WorldBusiness listing memasukkan Rice, Basmati, Matta, Brown, Non-Basmati, Organic Rice, Parboiled, Sella dan kategori food lainnya.
-**Listing evidence:** Jun-18-2023 / Dec-13-2020 pages. Belum ada shipment evidence publik yang cukup.
-**Contact:** tidak terbuka pada halaman publik yang ditemukan.
+**Bukti:** Go4WorldBusiness listing memasukkan Rice, Basmati, Matta, Brown, Non-Basmati, Organic Rice, Parboiled, Sella dan kategori food lainnya. Belum ada shipment evidence publik yang cukup.
 
 ### 20. MUJEZAT AL SHIFA GENERAL TRADING CO. W.L.L. — Kuwait
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS MENENGAH-TINGGI
 **Bukti:** 17 shipments dalam kategori Basmati Rice / Organic Basmati Brown Rice, buyer terbesar dalam dataset Kuwait kategori tersebut.
 **Website:** https://mujeza.com/
 **Kontak:** info@mujeza.com | +965 1892222 | Shuwaikh 3rd Industrial Area, Industry 416, Block D, Building 61, P.O. Box 1979, Salmiya 22020 Kuwait.
-**Additional contact:** export@mujeza.com | +965 9406 2087 pada halaman kontak/export perusahaan.
-**Product fit:** portfolio natural/health-oriented membuat Red/Black/Pandan Wangi layak diuji sebagai differentiated premium SKU. Organic status shipment perlu diverifikasi.
+**Additional contact:** export@mujeza.com | +965 9406 2087.
+**Product fit:** portfolio natural/health-oriented membuat Red/Black/Pandan Wangi layak diuji sebagai differentiated premium SKU.
 
 ### 21. AL KAMAR AL KUWAIT — Kuwait
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI UNTUK RED RICE
 **Bukti:** 28 Red Rice shipments; 56% dataset Red Rice Kuwait. Recent shipments 29-Nov-2024 dan 01-Nov-2024 berupa Husked Brown Rice / Red Raw Rice 8.5 MT dan 8.2 MT.
-**Contact:** belum ditemukan contact publik yang cukup kuat.
 **Product fit:** sangat langsung untuk JDN Red Premium. Organic status belum terbukti.
 
 ### 22. MOHAMED MUFSER AL-MUTAIRI GEN — Kuwait
 **Status:** VALID SPECIALTY RICE — PRIORITAS MENENGAH
 **Bukti:** Black Rice importer; recent shipment 17-Jun-2025 Parboiled Rice Black 105 KG dan 28-Jul-2024 144 KG.
-**Contact:** trade database menyatakan decision-maker details tersedia, tetapi tidak terbuka publik; jangan mengarang.
 **Product fit:** direct Black Rice fit. Organic status belum terbukti.
 
 ---
@@ -185,19 +178,17 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Status:** VALID SPECIALTY RICE — BLACK RICE EVIDENCE
 **Bukti:** 60 Black Rice shipments; 67% dataset Black Rice Saudi Arabia.
 **Product fit:** direct Black Rice buyer; Organic status belum terbukti.
-**Contact:** Volza menyatakan website/phone/email/decision makers tersedia dalam database berbayar, tetapi detail publik yang cukup belum ditemukan; jangan mengarang.
 
 ### 24. ALNAQEEB PIONEER FOOD IND CO LTD — Saudi Arabia
 **Status:** VALID SPECIALTY RICE — BLACK RICE EVIDENCE
 **Bukti:** 16 Black Rice shipments; 18% dataset Saudi.
-**Contact publik pihak ketiga:** +966 12 6093333; Wadi Merrikh District, Jeddah.
+**Kontak publik pihak ketiga:** +966 12 6093333; Wadi Merrikh District, Jeddah.
 **Product fit:** direct Black Rice opportunity; organic status belum terbukti.
 
 ### 25. SANABEL AL FARAT CO — Saudi Arabia
 **Status:** VALID SPECIALTY/PREMIUM RICE — AROMATIC RICE EVIDENCE
 **Bukti:** 8 Aromatic Rice / HSN 1006 shipments; 33% dataset Aromatic Rice Saudi.
 **Product fit:** relevan untuk Pandan Wangi sebagai Indonesian aromatic/fragrant rice; organic status belum terbukti.
-**Contact:** belum ditemukan detail publik yang cukup kuat.
 
 ### 26. AYAN ES CO LTD — Saudi Arabia
 **Status:** VALID SPECIALTY/PREMIUM RICE — AROMATIC RICE EVIDENCE
@@ -218,59 +209,87 @@ Dokumen ini mencatat buyer/importer/distributor potensial dengan bukti aktivitas
 **Bukti:** importer/distributor rice sejak 1986; mengimpor Thai Fragrant Rice, Jasmine Fragrant Rice, Brown Rice, Short Grain, Vietnamese dan Indian Rice; memasok supermarket, wholesalers, restaurants, caterers, ship chandlers dan minimarts, serta re-export regional.
 **Website:** https://chipseng.com.sg/
 **Kontak:** chipseng@singnet.com.sg | +65 6748 5417 / +65 6746 4155 | Blk 4 Defu South Street 1, #04-18 Singapore 533756.
-**Product fit:** sangat kuat untuk Pandan Wangi karena mereka sudah menjual fragrant/jasmine dan berbagai origin; JDN dapat menawarkan Indonesian aromatic rice sebagai new SKU, bukan menggantikan Jasmine.
-**Organic status:** belum terbukti.
+**Product fit:** sangat kuat untuk Pandan Wangi sebagai Indonesian aromatic rice new SKU; organic status belum terbukti.
 
 ### 29. VITA GROUP PTE LTD — Singapore
 **Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI UNTUK PANDAN WANGI
 **Bukti:** licensed importer/re-exporter rice; membeli dari Vietnam, Myanmar, India, Thailand; produk mencakup Jasmine Fragrant Rice, glutinous dan broken white rice; rice dire-export ke negara tetangga dan perusahaan menyebut dirinya major rice importer di Singapore.
 **Website:** https://www.vita.com.sg/portfolio-view/rice-trading/
-**Contact:** belum ditemukan detail contact publik yang cukup kuat dari sumber resmi yang terbuka.
-**Product fit:** sangat kuat untuk Pandan Wangi sebagai Indonesian fragrant rice dan untuk re-export regional.
-**Organic status:** belum terbukti.
+**Product fit:** sangat kuat untuk Pandan Wangi sebagai Indonesian fragrant rice dan untuk re-export regional. Organic status belum terbukti.
+
+### 30. MOI INTERNATIONAL SINGAPORE PTE LTD — Singapore
+**Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI UNTUK PANDAN WANGI
+**Bukti:** Volza mencatat 10 shipment Aromatic Rice; shipment 19-Mar-2025 berupa 5% broken aromatic rice, 25 kg bag, dengan records 130,000 kg dan 182,000 kg.
+**Product fit:** sangat relevan untuk Indonesian aromatic/fragrant rice. Existing aromatic category adalah evidence untuk new SKU, bukan syarat harus membeli Pandan Wangi sekarang.
+**Organic:** belum terbukti.
+**Contact:** detail decision-maker tersedia di database Volza berbayar; tidak dikarang dari data yang tidak terbuka.
+**Source:** https://www.volza.com/p/aromatic-rice/buyers/buyers-in-singapore/
+
+### 31. RICEGROWERS SINGAPORE PTE LTD — Singapore
+**Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS TINGGI
+**Bukti:** Volza mencatat 32 Aromatic Rice import shipments. Contoh shipment 06-Oct-2023 aromatic rice 25 kg bags 72 MT; 18-Mar-2022 aromatic rice/Koala Jasmine bag 1,740 MT.
+**Product fit:** direct aromatic/fragrant category fit untuk Pandan Wangi; juga relevan untuk White/Premium portfolio.
+**Organic:** belum terbukti.
+**Contact:** detail decision-maker tersedia di Volza; tidak dikarang dari data berbayar.
+**Source:** https://www.volza.com/p/aromatic-rice/buyers/buyers-in-singapore/
+
+### 32. WILMAR RICE TRADING PTE LTD — Singapore
+**Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS MENENGAH-TINGGI
+**Bukti:** Volza mencatat 12 Aromatic Rice import shipments. Contoh shipment 19-Aug-2022 Vietnamese aromatic rice 5% broken, 50 kg bags, 2,000 MT dan 29-Mar-2022 aromatic rice 5% broken, 10 kg bags, 14,400 MT.
+**Product fit:** established aromatic rice importer; Pandan Wangi dapat diposisikan sebagai Indonesian aromatic SKU, bukan pengganti existing Vietnamese aromatic rice.
+**Organic:** belum terbukti.
+**Contact:** gunakan corporate procurement channel; jangan mengarang email procurement.
+**Source:** https://www.volza.com/p/aromatic-rice/buyers/buyers-in-singapore/
+
+### 33. AMPRO PTE LTD — Singapore
+**Status:** VALID SPECIALTY/PREMIUM RICE — PRIORITAS MENENGAH
+**Bukti:** Volza mencatat 2 Aromatic Rice shipments pada 12-Oct-2023: Aromatic Rice Chinigura 1,000 g (1,575 kg) dan Kalizira 1,000 g (1,050 kg).
+**Product fit:** sangat relevan sebagai specialty/aromatic rice buyer. Chinigura/Kalizira memperkuat strategi Pandan Wangi sebagai new aromatic SKU.
+**Organic:** belum terbukti.
+**Source:** https://www.volza.com/p/aromatic-rice/buyers/buyers-in-singapore/
 
 ---
 
 ## F. POTENSIAL — PERLU VERIFIKASI LANJUT
 
-### 30. ARMAN GOLDEN HARVEST INC. — Kuwait
+### 34. ARMAN GOLDEN HARVEST INC. — Kuwait
 Buyer listing Rice/Basmati/Organic Rice/Long Grain; 24-Jun-2021. Belum ada shipment-level evidence publik atau official contact yang cukup kuat.
 
-### 31. GHAZI AL TAHER — Kuwait
+### 35. GHAZI AL TAHER — Kuwait
 Buyer listing Rice/Organic Rice/agro products; 31-May-2023. Belum ada shipment-level evidence publik yang cukup kuat.
 
-### 32. MATRAH COLD STORES LLC — Oman
+### 36. MATRAH COLD STORES LLC — Oman
 Buyer category mencakup Basmati/non-Basmati dan Organic Rice; listing 27-Mar-2020. Data lama, perlu verifikasi aktif.
 
-### 33. AL BAHRI ENGINEERING CONSULTANCY — Oman
+### 37. AL BAHRI ENGINEERING CONSULTANCY — Oman
 Buyer category mencakup Rice & Organic Rice; listing 29-Jul-2025. Belum ada shipment-level evidence publik yang cukup.
 
-### 34. SIMMI — Singapore
+### 38. SIMMI — Singapore
 Buyer listing 04-Oct-2022; Basmati/Matta/Ponni Rice; cultivation Organic & Common; 1 x 20ft; LC/TT; CFR Singapore. Archived; perlu verifikasi aktif.
 
-### 35. Cnb Trading — Qatar
+### 39. Cnb Trading — Qatar
 Go4WorldBusiness listing 18-Jan-2024 mencantumkan Rice/Basmati/Sona Masoori/Sugandha/Jasmine/Matta/Ponni/Brown/White/Non-Basmati/Organic Rice. Belum ada shipment evidence/official contact cukup.
 
-### 36. UNNAMED / MASKED FRESHDI C-LEVEL BUYER — Oman
+### 40. UNNAMED / MASKED FRESHDI C-LEVEL BUYER — Oman
 Organic Rice buying lead; identity dimasking platform. Tidak boleh ditebak. Perlu platform verification sebelum outreach.
 
 ---
 
 ## G. RICE LEADS RELEVAN — ORGANIC BELUM TERBUKTI
 
-### 37. MOHAMED HUSSAIN — Singapore
+### 41. MOHAMED HUSSAIN — Singapore
 Verified RFQ 13-May-2026: Basmati/Parboiled/Ponni/Matta; 1x20ft; CIF Singapore; L/C. Organic tidak disebut eksplisit.
 
-### 38. GERRY CERBAS — Saudi Arabia
+### 42. GERRY CERBAS — Saudi Arabia
 Verified RFQ Aug-06-2026: Sella Basmati 1121/Parboiled/Matta; 1x20ft; CIF Saudi; L/C; retail/distribution; HS 100630. Organic tidak diwajibkan.
 
-### 39. IBRAHIM — Saudi Arabia
+### 43. IBRAHIM — Saudi Arabia
 Verified RFQ Aug-04-2026: Basmati/Non-Basmati/Sona Masoori/Sella 1121/Parboiled; 1x20ft; Dammam; FOB/CIF; L/C; HS 100620/100630. Organic tidak disebut.
 
-### 40. NADEEM — Qatar
+### 44. NADEEM — Qatar
 Verified RFQ Aug-24-2026: Basmati/Jasmine; 1x20ft; CIF Qatar; L/C; HS 100630. Organic tidak disebut.
 
-### 41. SHAH HIRA — Singapore
+### 45. SHAH HIRA — Singapore
 Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapore; irrevocable L/C. Organic tidak disebut.
 
 ---
@@ -307,6 +326,7 @@ Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapo
 - Exact Organic Rice buyer detail publik terbatas.
 - Rice/Protein: 375 buyers / 9,567 shipments; RiceGrowers Singapore, Louis Dreyfus Asia, dll.
 - HSN 10064090: 57 buyers / 564 shipments; Louis Dreyfus, Wilmar Rice Trading, New Eastern 1971 menjadi top buyers pada dataset tersebut.
+- Aromatic Rice snapshot: 20 buyers / 80 shipments; MOI, RiceGrowers Singapore dan Wilmar Rice Trading termasuk buyer utama pada dataset yang diteliti.
 - Chip Seng dan Vita Group sangat relevan untuk fragrant/aromatic rice and re-export.
 
 ### Malaysia
@@ -316,72 +336,56 @@ Verified RFQ Aug-21-2026: Broken/Ponni/Basmati/all types; 25,000 MT; CIF Singapo
 
 ## I. PRICE BENCHMARKS YANG DITEMUKAN
 
-> Harga di bawah adalah **declared shipment value / quantity** dari trade-data source, bukan otomatis harga CIF final atau harga retail. Packaging, volume, origin, incoterm dan biaya lain berbeda. Gunakan sebagai benchmark, bukan quote.
+> Harga di bawah adalah declared shipment value / quantity dari trade-data source, bukan otomatis harga CIF final atau harga retail. Packaging, volume, origin, incoterm dan biaya lain berbeda. Gunakan sebagai benchmark, bukan quote.
 
 ### Qatar
-- Organic Sonamasuri Brown 2 KG: $1,539.65 / 1 MT ≈ **$1.54/kg**.
-- Organic Sonamasuri Polished 5 KG: $3,508.52 / 3 MT ≈ **$1.17/kg**.
-- Organic Sonamasuri Brown 5 KG: $3,769.41 / 4 MT ≈ **$0.94/kg**.
-- Organic Sonamasuri Polished 5 KG: $2,198.66 / 2 MT ≈ **$1.10/kg**.
-- Organic Sonamasuri Brown 5 KG: $2,694.53 / 3 MT ≈ **$0.90/kg**.
+- Organic Sonamasuri Brown 2 KG: $1,539.65 / 1 MT ≈ $1.54/kg.
+- Organic Sonamasuri Polished 5 KG: $3,508.52 / 3 MT ≈ $1.17/kg.
+- Organic Sonamasuri Brown 5 KG: $3,769.41 / 4 MT ≈ $0.94/kg.
+- Organic Sonamasuri Polished 5 KG: $2,198.66 / 2 MT ≈ $1.10/kg.
+- Organic Sonamasuri Brown 5 KG: $2,694.53 / 3 MT ≈ $0.90/kg.
 
 ### Saudi Arabia
-- Organic Sonamasuri Polished 5 KG: $860.67 / 1 MT ≈ **$0.86/kg**.
+- Organic Sonamasuri Polished 5 KG: $860.67 / 1 MT ≈ $0.86/kg.
 
 ### Kuwait
-- Organic Brown Basmati: $20,120.26 / 11,016 KG ≈ **$1.83/kg**.
-- Organic White Basmati: $7,232.77 / 3,960 KG ≈ **$1.83/kg**.
-- Indian Organic Brown Traditional Basmati: $11,846.26 / 6,000 KG ≈ **$1.97/kg**.
-- Organic Sonamasuri Brown 5 KG: $12,413.69 / 10 MT ≈ **$1.24/kg**.
-- Organic Sonamasuri Polished 5 KG: $10,114.86 / 8 MT ≈ **$1.26/kg**.
+- Organic Brown Basmati: $20,120.26 / 11,016 KG ≈ $1.83/kg.
+- Organic White Basmati: $7,232.77 / 3,960 KG ≈ $1.83/kg.
+- Indian Organic Brown Traditional Basmati: $11,846.26 / 6,000 KG ≈ $1.97/kg.
+- Organic Sonamasuri Brown 5 KG: $12,413.69 / 10 MT ≈ $1.24/kg.
+- Organic Sonamasuri Polished 5 KG: $10,114.86 / 8 MT ≈ $1.26/kg.
 
 ### Oman
-- Organic Matta 2 KG: $1,195.64 / 2,000 KG ≈ **$0.60/kg**.
-- Organic Sonamasuri Polished 5 KG: $4,935.91 / 5 MT ≈ **$0.99/kg**.
-- Organic Sonamasuri Brown 2 KG: $2,285.23 / 2 MT ≈ **$1.14/kg**.
-- Organic Sonamasuri Brown 5 KG: $3,232.67 / 3 MT ≈ **$1.08/kg**.
+- Organic Matta 2 KG: $1,195.64 / 2,000 KG ≈ $0.60/kg.
+- Organic Sonamasuri Polished 5 KG: $4,935.91 / 5 MT ≈ $0.99/kg.
+- Organic Sonamasuri Brown 2 KG: $2,285.23 / 2 MT ≈ $1.14/kg.
+- Organic Sonamasuri Brown 5 KG: $3,232.67 / 3 MT ≈ $1.08/kg.
 
 ### Singapore
-- Organic non-Basmati white rice bulk: $143,071.38 / 270,000 KG ≈ **$0.53/kg**.
-- Organic rice bulk 270 MT: $138,828.23 / 270 MT ≈ **$0.51/kg**.
-- Organic Swarna white rice 286 MT: $149,914.86 / 286 MT ≈ **$0.52/kg**.
-- Organic non-Basmati 50 MT: $40,329.07 / 50 MT ≈ **$0.81/kg**.
+- Organic non-Basmati white rice bulk: $143,071.38 / 270,000 KG ≈ $0.53/kg.
+- Organic rice bulk 270 MT: $138,828.23 / 270 MT ≈ $0.51/kg.
+- Organic Swarna white rice 286 MT: $149,914.86 / 286 MT ≈ $0.52/kg.
+- Organic non-Basmati 50 MT: $40,329.07 / 50 MT ≈ $0.81/kg.
 
 ### Important economics implication
-Benchmark shipment values show a **large gap versus JDN EXW $2.03–$2.98/kg** for many bulk/standard organic rice shipments. Ini belum berarti JDN tidak kompetitif, karena benchmark dapat berbeda dalam grade, packaging, volume, origin, incoterm dan positioning. Namun gap ini wajib diuji SKU-by-SKU.
+Benchmark shipment values menunjukkan gap versus JDN EXW untuk banyak bulk/standard organic rice. Ini belum berarti JDN tidak kompetitif karena benchmark berbeda dalam grade, packaging, volume, origin, incoterm dan positioning. Gap wajib diuji SKU-by-SKU.
 
 ---
 
 ## J. HARGA EXW JDN — PARAMETER RESMI UNTUK SCREENING
 
-### Opening price / harga awal
-- Hotel Super Head Rice 5 KG: **Rp36.080/kg**; Rp180.400/5 KG; USD 10.13/5 KG.
-- Hotel Premium Red Rice 5 KG: **Rp40.120/kg**; Rp200.600/5 KG; USD 11.27/5 KG.
-- Hotel Black Rice 800 GR: **Rp53.000/kg**; Rp42.400/800 GR; USD 2.38/800 GR.
+Harga resmi tidak dikelola di file buyer. Lihat `HARGA-EXW-JDN.md` untuk opening price dan net price terbaru.
 
-### Net price / harga realistis setelah negosiasi
-Harga net sudah menyisakan **margin JDN Rp5.000/kg**:
-- White Rice: **Rp33.250/kg**
-- Red Premium Rice: **Rp37.700/kg**
-- Black Rice: **Rp46.750/kg**
-- Pandan Wangi: **belum ada harga net terverifikasi**.
-- Varian lain: **belum ada harga net terverifikasi**.
+---
 
-### Prinsip economics
-1. Semua angka di atas adalah **EXW**, bukan CIF.
-2. Opening price digunakan untuk simulasi penawaran awal.
-3. Net price digunakan sebagai skenario negosiasi/floor untuk menguji apakah market masih feasible.
-4. Varian lain belum memiliki net price terverifikasi; jangan mengarang floor price.
-5. EXW harus ditambah inland/export handling, freight, insurance, customs, destination charges dan margin channel untuk mendapatkan landed economics.
-6. Jika hanya net price yang membuat market feasible, tandai **feasible only at negotiated/net price**, bukan langsung dicoret.
+## K. ATURAN MAINTENANCE DATABASE
 
-## Catatan Validasi Kontak
-1. Kontak dari website resmi diprioritaskan.
-2. Email procurement khusus tidak boleh ditebak.
-3. Email/phone third-party harus diberi label third-party dan tidak dianggap official sampai diverifikasi.
-4. Nama mirip tidak otomatis dua perusahaan berbeda; lakukan entity matching.
-5. RFQ aktif adalah sinyal demand kuat, tetapi identitas legal buyer tetap perlu diverifikasi sebelum outreach.
-6. Jangan mencatat data kontak yang dimasking sebagai data lengkap.
-7. **Semua buyer valid/lead yang ditemukan harus tetap dicatat walaupun bukan Top 10.**
-8. Jika nanti buyer menolak/tidak merespons, **jangan hapus**; ubah status menjadi Rejected / No Response / Disqualified agar histori outreach tetap tersedia.
-9. Buyer yang membeli varietas berbeda tetap dicatat jika Organic/Premium/Specialty Rice channel-nya relevan. Varietas existing adalah informasi positioning, bukan exclusion filter.
+1. File ini adalah **master tunggal buyer**.
+2. Jangan membuat file buyer baru sebagai addendum/update kecuali user secara eksplisit memerintahkannya.
+3. Setiap buyer baru langsung ditambahkan ke file master ini.
+4. Buyer baru ditempatkan pada section/urutan yang paling relevan dengan market dan product fit-nya; nomor berikutnya disesuaikan agar tetap urut.
+5. Jika buyer sudah ada dengan variasi nama, lakukan entity matching dan update record lama, bukan membuat duplikasi.
+6. Jika data kontak, shipment, RFQ, status, atau product fit bertambah, update record buyer yang bersangkutan.
+7. Jika buyer ditolak/tidak merespons, jangan hapus record; update status dan histori.
+8. Sebelum setiap riset buyer, baca ulang `ACUAN-RISET-MARKET.md`, file harga `HARGA-EXW-JDN.md`, dan master buyer ini.
+9. Semua buyer valid yang ditemukan dicatat, walaupun hanya sebagian yang masuk Top 10.
