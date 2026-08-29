@@ -260,3 +260,81 @@ Kurs kerja untuk perbandingan USD memakai sekitar **Rp17.800/USD**; ini hanya ku
 Retail price **bukan** landed/importer price. Tanpa freight quote aktual, destination charges, duty/tax, importer margin, distributor margin, retailer margin, packaging dan MOQ, kita **belum boleh menyatakan transaksi pasti profitable**. Hasil ini adalah **commercial screening**, bukan quotation/CIF feasibility final.
 
 Tahap berikutnya, bila diperlukan, adalah mendapatkan **freight/landed-cost scenario nyata untuk 2–4 SKU teratas**, bukan kembali mencari buyer secara generic.
+
+## 14. Freight / Landed-Cost Screening — 29-Aug-2026
+
+Screening awal menggunakan asumsi **20.000 kg/container** untuk menjaga model konservatif. Angka freight di bawah adalah **indikatif/proxy, bukan quotation forwarder dan bukan CIF final**.
+
+- Indonesia → Qatar: sekitar US$1.050–1.250 / 20 ft → sekitar Rp935–1.113/kg pada kurs Rp17.800/USD.
+- Jakarta → Jeddah: sekitar US$1.825–2.314 / 20 ft pada quote indikatif tertentu → sekitar Rp1.624–2.060/kg.
+- Jakarta → Singapore: indikasi sekitar Rp41,2 juta / 20 ft door-to-door pada sumber tertentu → sekitar Rp2.060/kg; belum termasuk pajak/bea negara tujuan.
+
+### Freight-adjusted proxy
+
+Dengan midpoint Qatar ~Rp1.024/kg, Saudi ~Rp1.842/kg, Singapore ~Rp2.060/kg:
+
+- Black net Rp46.750 → sekitar Rp47.774 Qatar; Rp48.592 Saudi; Rp48.810 Singapore, **sebelum** origin/destination charges lainnya.
+- Red net Rp37.700 → sekitar Rp38.724 Qatar; Rp39.542 Saudi; Rp39.760 Singapore, **sebelum** charges lainnya.
+- Pandan White opening Rp40.850 → sekitar Rp41.874 Qatar; Rp42.692 Saudi; Rp42.910 Singapore, **sebelum** charges lainnya.
+
+Angka tersebut bukan landed cost final. Masih perlu trucking, export handling, documentation, terminal charges, insurance, destination THC, customs clearance, delivery, dan biaya lain.
+
+### Regulatory observations from screening
+
+**Qatar:** rice HS 1006 tercatat dengan tariff 0% pada tariff/customs information yang ditemukan; rice tetap food-control item. Qatar belum menerapkan VAT pada kondisi saat riset. Label/food requirements tetap harus dipenuhi.
+
+**Saudi Arabia:** rice HS 100630 tercatat 0% default duty pada sumber tariff yang ditemukan, tetapi import VAT 15% berlaku. Untuk organic claim, importer/product registration dan documentary certification menjadi regulatory gate. VAT jangan otomatis dianggap margin cost permanen bagi importer VAT-registered; perlakuan recoverability harus diperiksa dengan buyer/importer.
+
+**Singapore:** rice adalah controlled item. Importer/re-exporter/wholesaler rice memerlukan licence SFA. Import GST 9% berlaku; perlakuan GST importer harus dimodelkan sesuai status pajaknya.
+
+### Commercial conclusion
+
+Freight laut indikatif hanya menambah sekitar Rp1–2 ribu/kg pada model 20 ton untuk Qatar/Saudi/Singapore. Dengan demikian freight **bukan bottleneck utama** pada Black/Red/Pandan berdasarkan screening awal; bottleneck berikutnya adalah destination charges, actual quotation, channel margin, dan final landed economics.
+
+**Prioritas SKU-market:**
+- Qatar → Black / Red / Pandan Wangi
+- Saudi → Black / Red / Sugar Free / Pandan Wangi
+- Singapore → Pandan Wangi / Black / Red
+
+## 15. Next Research Gate
+
+Market discovery generic sudah dianggap cukup. Tahap berikutnya bukan mengulang pencarian market secara acak, tetapi melakukan **commercial validation**:
+
+1. minta/temukan freight quotation aktual untuk 20 ft dari origin JDN ke Hamad, Jeddah, dan Singapore;
+2. pisahkan origin charges dan destination charges;
+3. hitung CIF/landed-cost range;
+4. hitung maximum buyer purchase price yang masih masuk untuk distributor/retailer;
+5. cocokkan dengan buyer master per SKU;
+6. cek regulatory/document requirement pada buyer/market target;
+7. tentukan opening offer dan negotiation floor per market/SKU;
+8. susun prioritas outreach.
+
+**Jangan menyebut transaksi feasible secara final hanya berdasarkan retail price gap.** Final feasibility memerlukan landed-cost dan buyer-side margin validation.
+
+## 16. Rule: GitHub Notes / Single Source of Truth
+
+Semua catatan proyek harus memiliki **satu master file per jenis informasi**.
+
+- Buyer → `BUYER-VALID-POTENSIAL.md`
+- Harga → `HARGA-EXW-JDN.md`
+- Market research / methodology / commercial screening → `ACUAN-RISET-MARKET.md`
+- Website → master website file yang sudah ada
+
+Jangan membuat file `UPDATE`, `ADDENDUM`, `PATCH`, atau catatan paralel untuk informasi yang seharusnya memperbarui master, kecuali user secara eksplisit memerintahkan pembuatan file baru.
+
+Jika record baru ditambahkan, masukkan langsung ke section/record/row yang relevan dan jaga urutan/ID agar tidak terjadi duplikasi atau kehilangan histori.
+
+## 17. Rule: Safe GitHub Update Workflow
+
+Untuk update file proyek di GitHub, jangan berhenti hanya karena wrapper `update_file` mengalami conflict atau response terpotong.
+
+Workflow yang harus digunakan:
+1. baca/fetch versi terbaru file;
+2. bila file panjang, ambil **blob lengkap berdasarkan SHA** agar isi tidak terpotong;
+3. lakukan perubahan terhadap isi lengkap tersebut;
+4. gunakan SHA terbaru untuk update, atau gunakan Git Data API (`blob → tree → commit → update_ref`) bila Contents API tidak aman/tidak memadai;
+5. setelah write, **verifikasi hasil** dengan memeriksa commit/HEAD dan blob terbaru;
+6. jangan membuat file `UPDATE`, `ADDENDUM`, atau file sementara hanya untuk mengatasi masalah teknis, kecuali memang diperintahkan user;
+7. jangan menyatakan update berhasil sebelum commit dan isi file terbaru benar-benar terverifikasi.
+
+Tujuan utama workflow ini adalah menjaga **single source of truth**, mencegah overwrite versi lama, dan memastikan catatan proyek tidak hilang akibat file panjang atau konflik SHA.
